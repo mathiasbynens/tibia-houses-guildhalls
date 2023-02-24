@@ -1,0 +1,6470 @@
+[
+	{
+		"city": "Thais",
+		"name": "Demon Tower",
+		"id": "10006",
+		"size": 72,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Open-Air Theatre",
+		"id": "10007",
+		"size": 60,
+		"rent": 150000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 01",
+		"id": "10101",
+		"size": 13,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 02",
+		"id": "10102",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 03",
+		"id": "10103",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 11",
+		"id": "10104",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 12",
+		"id": "10112",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 13",
+		"id": "10113",
+		"size": 19,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 14",
+		"id": "10114",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 21",
+		"id": "10121",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 22",
+		"id": "10122",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 23",
+		"id": "10123",
+		"size": 19,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Sunset Homes, Flat 24",
+		"id": "10124",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 01",
+		"id": "10201",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 02",
+		"id": "10202",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 03",
+		"id": "10203",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 04",
+		"id": "10204",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 05",
+		"id": "10205",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 06",
+		"id": "10206",
+		"size": 19,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 11",
+		"id": "10211",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 12",
+		"id": "10212",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 13",
+		"id": "10213",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 14",
+		"id": "10214",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 15",
+		"id": "10215",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Beach Home Apartments, Flat 16",
+		"id": "10216",
+		"size": 19,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 01",
+		"id": "10301",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 02",
+		"id": "10302",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 03",
+		"id": "10303",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 04",
+		"id": "10304",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 05",
+		"id": "10305",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 06",
+		"id": "10306",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 07",
+		"id": "10307",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 08",
+		"id": "10308",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 11",
+		"id": "10311",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 12",
+		"id": "10312",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 13",
+		"id": "10313",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 14",
+		"id": "10314",
+		"size": 20,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 15",
+		"id": "10315",
+		"size": 30,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 16",
+		"id": "10316",
+		"size": 30,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 17",
+		"id": "10317",
+		"size": 20,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 18",
+		"id": "10318",
+		"size": 20,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 22",
+		"id": "10319",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 21",
+		"id": "10320",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 23",
+		"id": "10321",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 24",
+		"id": "10322",
+		"size": 20,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 25",
+		"id": "10323",
+		"size": 30,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 26",
+		"id": "10324",
+		"size": 30,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 27",
+		"id": "10325",
+		"size": 20,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Alai Flats, Flat 28",
+		"id": "10326",
+		"size": 20,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Upper Swamp Lane 2",
+		"id": "10401",
+		"size": 74,
+		"rent": 600000
+	},
+	{
+		"city": "Thais",
+		"name": "Upper Swamp Lane 4",
+		"id": "10402",
+		"size": 74,
+		"rent": 600000
+	},
+	{
+		"city": "Thais",
+		"name": "Lower Swamp Lane 1",
+		"id": "10403",
+		"size": 74,
+		"rent": 400000
+	},
+	{
+		"city": "Thais",
+		"name": "Lower Swamp Lane 3",
+		"id": "10404",
+		"size": 74,
+		"rent": 400000
+	},
+	{
+		"city": "Thais",
+		"name": "Upper Swamp Lane 8",
+		"id": "10405",
+		"size": 132,
+		"rent": 600000
+	},
+	{
+		"city": "Thais",
+		"name": "Upper Swamp Lane 10",
+		"id": "10407",
+		"size": 31,
+		"rent": 150000
+	},
+	{
+		"city": "Thais",
+		"name": "Upper Swamp Lane 12",
+		"id": "10408",
+		"size": 60,
+		"rent": 300000
+	},
+	{
+		"city": "Thais",
+		"name": "Sorcerer's Avenue 1a",
+		"id": "10501",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Sorcerer's Avenue 1b",
+		"id": "10502",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Sorcerer's Avenue 1c",
+		"id": "10503",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Sorcerer's Avenue 5 (Shop)",
+		"id": "10504",
+		"size": 49,
+		"rent": 150000
+	},
+	{
+		"city": "Thais",
+		"name": "Sorcerer's Avenue Labs 2a",
+		"id": "10505",
+		"size": 29,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Sorcerer's Avenue Labs 2b",
+		"id": "10508",
+		"size": 29,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Sorcerer's Avenue Labs 2c",
+		"id": "10510",
+		"size": 29,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Harbour Street 4",
+		"id": "10602",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Thais Hostel",
+		"id": "10603",
+		"size": 117,
+		"rent": 200000
+	},
+	{
+		"city": "Thais",
+		"name": "Farm Lane, Basement (Shop)",
+		"id": "10701",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Farm Lane, 1st floor (Shop)",
+		"id": "10702",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Farm Lane, 2nd Floor (Shop)",
+		"id": "10703",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Main Street 9, 1st floor (Shop)",
+		"id": "10802",
+		"size": 32,
+		"rent": 200000
+	},
+	{
+		"city": "Thais",
+		"name": "Main Street 9a, 2nd floor (Shop)",
+		"id": "10803",
+		"size": 17,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Main Street 9b, 2nd floor (Shop)",
+		"id": "10804",
+		"size": 28,
+		"rent": 150000
+	},
+	{
+		"city": "Thais",
+		"name": "Mill Avenue 1 (Shop)",
+		"id": "10901",
+		"size": 26,
+		"rent": 200000
+	},
+	{
+		"city": "Thais",
+		"name": "Mill Avenue 2 (Shop)",
+		"id": "10902",
+		"size": 45,
+		"rent": 200000
+	},
+	{
+		"city": "Thais",
+		"name": "Mill Avenue 3",
+		"id": "10903",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Mill Avenue 4",
+		"id": "10904",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Mill Avenue 5",
+		"id": "10905",
+		"size": 59,
+		"rent": 300000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 5a",
+		"id": "11001",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 5b",
+		"id": "11002",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 5c",
+		"id": "11003",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 5d",
+		"id": "11004",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 5e",
+		"id": "11005",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 5f",
+		"id": "11006",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 7a",
+		"id": "11007",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 7b",
+		"id": "11008",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 7c",
+		"id": "11009",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 7d",
+		"id": "11010",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 7e",
+		"id": "11011",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 7f",
+		"id": "11012",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 7g",
+		"id": "11013",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 7h",
+		"id": "11014",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 9",
+		"id": "11015",
+		"size": 19,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 3a",
+		"id": "11016",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 3b",
+		"id": "11017",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 3c",
+		"id": "11018",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 3d",
+		"id": "11019",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 3e",
+		"id": "11020",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 3f",
+		"id": "11021",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 1a",
+		"id": "11022",
+		"size": 26,
+		"rent": 150000
+	},
+	{
+		"city": "Thais",
+		"name": "The City Wall 1b",
+		"id": "11023",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Smuggler's Den",
+		"id": "11024",
+		"size": 219,
+		"rent": 400000
+	},
+	{
+		"city": "Thais",
+		"name": "Harbour Place 2 (Shop)",
+		"id": "11401",
+		"size": 26,
+		"rent": 600000
+	},
+	{
+		"city": "Thais",
+		"name": "Harbour Place 3",
+		"id": "11402",
+		"size": 87,
+		"rent": 800000
+	},
+	{
+		"city": "Thais",
+		"name": "Harbour Place 1 (Shop)",
+		"id": "11404",
+		"size": 22,
+		"rent": 800000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Village 1",
+		"id": "12003",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Village 2",
+		"id": "12004",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Village 3",
+		"id": "12005",
+		"size": 54,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Village 4",
+		"id": "12006",
+		"size": 26,
+		"rent": 25000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Village 5",
+		"id": "12007",
+		"size": 26,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Village, Tower Flat",
+		"id": "12008",
+		"size": 78,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Village, Bar (Shop)",
+		"id": "12009",
+		"size": 79,
+		"rent": 100000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Village, Villa",
+		"id": "12100",
+		"size": 222,
+		"rent": 200000
+	},
+	{
+		"city": "Thais",
+		"name": "Greenshore Village, Villa",
+		"id": "14003",
+		"size": 155,
+		"rent": 300000
+	},
+	{
+		"city": "Thais",
+		"name": "Greenshore Village, Shop",
+		"id": "14004",
+		"size": 30,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Greenshore Village 1",
+		"id": "14005",
+		"size": 37,
+		"rent": 80000
+	},
+	{
+		"city": "Thais",
+		"name": "Greenshore Village 2",
+		"id": "14006",
+		"size": 26,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Greenshore Village 3",
+		"id": "14008",
+		"size": 26,
+		"rent": 50000
+	},
+	{
+		"city": "Thais",
+		"name": "Greenshore Village 6",
+		"id": "14010",
+		"size": 71,
+		"rent": 150000
+	},
+	{
+		"city": "Thais",
+		"name": "Greenshore Village 7",
+		"id": "14011",
+		"size": 21,
+		"rent": 25000
+	},
+	{
+		"city": "Farmine",
+		"name": "Caveman Shelter",
+		"id": "15001",
+		"size": 87,
+		"rent": 150000
+	},
+	{
+		"city": "Farmine",
+		"name": "Eastern House of Tranquility",
+		"id": "15002",
+		"size": 268,
+		"rent": 200000
+	},
+	{
+		"city": "Gray Beach",
+		"name": "Old Sanctuary of God King Qjell",
+		"id": "17001",
+		"size": 537,
+		"rent": 300000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Wallside Residence",
+		"id": "19001",
+		"size": 144,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Rathleton Hills Residence",
+		"id": "19003",
+		"size": 155,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Rathleton Plaza 1",
+		"id": "19004",
+		"size": 62,
+		"rent": 300000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Rathleton Plaza 2",
+		"id": "19005",
+		"size": 56,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Rathleton Plaza 3",
+		"id": "19006",
+		"size": 123,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Cistern Ave",
+		"id": "19008",
+		"size": 81,
+		"rent": 300000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Old Heritage Estate",
+		"id": "19009",
+		"size": 255,
+		"rent": 600000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Wallside Lane 1",
+		"id": "19010",
+		"size": 162,
+		"rent": 800000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Wallside Lane 2",
+		"id": "19011",
+		"size": 181,
+		"rent": 600000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Vanward Flats A",
+		"id": "19012",
+		"size": 158,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Vanward Flats B",
+		"id": "19013",
+		"size": 158,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Antimony Lane 1",
+		"id": "19014",
+		"size": 149,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Antimony Lane 2",
+		"id": "19015",
+		"size": 101,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Antimony Lane 3",
+		"id": "19016",
+		"size": 77,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Antimony Lane 4",
+		"id": "19017",
+		"size": 110,
+		"rent": 400000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Rathleton Plaza 4",
+		"id": "19018",
+		"size": 109,
+		"rent": 400000
+	},
+	{
+		"city": "Carlin",
+		"name": "Druids Retreat A",
+		"id": "20004",
+		"size": 31,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Druids Retreat B",
+		"id": "20005",
+		"size": 29,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Druids Retreat C",
+		"id": "20006",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Druids Retreat D",
+		"id": "20007",
+		"size": 27,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Rosebud A",
+		"id": "20008",
+		"size": 25,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Rosebud B",
+		"id": "20009",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Rosebud C",
+		"id": "20010",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Nautic Observer",
+		"id": "20011",
+		"size": 156,
+		"rent": 200000
+	},
+	{
+		"city": "Carlin",
+		"name": "Caretaker's Residence",
+		"id": "20012",
+		"size": 231,
+		"rent": 600000
+	},
+	{
+		"city": "Carlin",
+		"name": "Central Plaza 3 (Shop)",
+		"id": "20102",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Central Plaza 2 (Shop)",
+		"id": "20103",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Central Plaza 1 (Shop)",
+		"id": "20104",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Park Lane 1a",
+		"id": "20201",
+		"size": 28,
+		"rent": 150000
+	},
+	{
+		"city": "Carlin",
+		"name": "Park Lane 1b",
+		"id": "20202",
+		"size": 32,
+		"rent": 200000
+	},
+	{
+		"city": "Carlin",
+		"name": "Park Lane 3b",
+		"id": "20203",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Park Lane 3a",
+		"id": "20204",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Park Lane 4",
+		"id": "20205",
+		"size": 22,
+		"rent": 150000
+	},
+	{
+		"city": "Carlin",
+		"name": "Park Lane 2",
+		"id": "20206",
+		"size": 22,
+		"rent": 150000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue, Tower",
+		"id": "20301",
+		"size": 70,
+		"rent": 300000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 6a",
+		"id": "20304",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 6b",
+		"id": "20305",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 6c",
+		"id": "20306",
+		"size": 5,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 6d",
+		"id": "20307",
+		"size": 5,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 6e",
+		"id": "20308",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 6f",
+		"id": "20309",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 5",
+		"id": "20310",
+		"size": 81,
+		"rent": 200000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 8a",
+		"id": "20314",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 8b",
+		"id": "20315",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 01",
+		"id": "20316",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 02",
+		"id": "20317",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 03",
+		"id": "20318",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 04",
+		"id": "20319",
+		"size": 11,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 05",
+		"id": "20320",
+		"size": 9,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 06",
+		"id": "20321",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 11",
+		"id": "20322",
+		"size": 11,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 12",
+		"id": "20323",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 13",
+		"id": "20324",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 14",
+		"id": "20325",
+		"size": 11,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 15",
+		"id": "20326",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 7, Flat 16",
+		"id": "20327",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 10",
+		"id": "20401",
+		"size": 22,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 12",
+		"id": "20402",
+		"size": 19,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 14 (Shop)",
+		"id": "20403",
+		"size": 47,
+		"rent": 200000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 11a",
+		"id": "20404",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Theater Avenue 11b",
+		"id": "20405",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 1",
+		"id": "20501",
+		"size": 19,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 1a",
+		"id": "20502",
+		"size": 12,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 1b",
+		"id": "20503",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 1c",
+		"id": "20504",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 1d",
+		"id": "20505",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 5b",
+		"id": "20508",
+		"size": 19,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 5c",
+		"id": "20509",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 5a",
+		"id": "20510",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 5f",
+		"id": "20512",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 4",
+		"id": "20513",
+		"size": 49,
+		"rent": 200000
+	},
+	{
+		"city": "Carlin",
+		"name": "Magician's Alley 8",
+		"id": "20514",
+		"size": 26,
+		"rent": 150000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northern Street 1a",
+		"id": "20601",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northern Street 1b",
+		"id": "20602",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northern Street 1c",
+		"id": "20603",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northern Street 3a",
+		"id": "20604",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northern Street 3b",
+		"id": "20605",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northern Street 5",
+		"id": "20606",
+		"size": 47,
+		"rent": 200000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northern Street 7",
+		"id": "20607",
+		"size": 40,
+		"rent": 150000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Lane 1 (Shop)",
+		"id": "20701",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Lane 3",
+		"id": "20702",
+		"size": 84,
+		"rent": 400000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Lane 2a (Shop)",
+		"id": "20703",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Lane 2b (Shop)",
+		"id": "20704",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Flats, Flat 11",
+		"id": "20705",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Flats, Flat 12",
+		"id": "20706",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Flats, Flat 13",
+		"id": "20707",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Flats, Flat 15",
+		"id": "20709",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Flats, Flat 16",
+		"id": "20710",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Flats, Flat 21",
+		"id": "20713",
+		"size": 19,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Flats, Flat 22",
+		"id": "20714",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Harbour Flats, Flat 23",
+		"id": "20715",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "East Lane 1a",
+		"id": "20801",
+		"size": 54,
+		"rent": 200000
+	},
+	{
+		"city": "Carlin",
+		"name": "East Lane 1b",
+		"id": "20802",
+		"size": 40,
+		"rent": 150000
+	},
+	{
+		"city": "Carlin",
+		"name": "East Lane 2",
+		"id": "20803",
+		"size": 110,
+		"rent": 300000
+	},
+	{
+		"city": "Carlin",
+		"name": "Lonely Sea Side Hostel",
+		"id": "20902",
+		"size": 281,
+		"rent": 400000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northport Village 1",
+		"id": "22001",
+		"size": 25,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northport Village 2",
+		"id": "22002",
+		"size": 25,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northport Village 3",
+		"id": "22003",
+		"size": 97,
+		"rent": 150000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northport Village 4",
+		"id": "22004",
+		"size": 47,
+		"rent": 100000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northport Village 5",
+		"id": "22006",
+		"size": 31,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northport Village 6",
+		"id": "22007",
+		"size": 37,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 1a",
+		"id": "24001",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 1b",
+		"id": "24002",
+		"size": 34,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 3",
+		"id": "24004",
+		"size": 37,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 4",
+		"id": "24005",
+		"size": 34,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 5",
+		"id": "24006",
+		"size": 25,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 6a",
+		"id": "24007",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 6b",
+		"id": "24008",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 7",
+		"id": "24009",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 8",
+		"id": "24010",
+		"size": 35,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 9",
+		"id": "24011",
+		"size": 55,
+		"rent": 80000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 10",
+		"id": "24012",
+		"size": 33,
+		"rent": 50000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Village 11",
+		"id": "24013",
+		"size": 56,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Farms 1",
+		"id": "30101",
+		"size": 42,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Farms 2",
+		"id": "30102",
+		"size": 26,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Farms 3",
+		"id": "30103",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Farms 4",
+		"id": "30104",
+		"size": 26,
+		"rent": 25000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Farms 5",
+		"id": "30105",
+		"size": 26,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Farms 6, Fishing Hut",
+		"id": "30106",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Dwarven Magnate's Estate",
+		"id": "30107",
+		"size": 248,
+		"rent": 300000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Nobility Quarter 1",
+		"id": "30201",
+		"size": 37,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Nobility Quarter 2",
+		"id": "30202",
+		"size": 37,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Nobility Quarter 3",
+		"id": "30203",
+		"size": 37,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Nobility Quarter 4",
+		"id": "30204",
+		"size": 37,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Nobility Quarter 5",
+		"id": "30206",
+		"size": 79,
+		"rent": 100000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Upper Barracks 1",
+		"id": "30301",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Upper Barracks 2",
+		"id": "30304",
+		"size": 27,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Upper Barracks 3",
+		"id": "30307",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Upper Barracks 4",
+		"id": "30308",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Upper Barracks 5",
+		"id": "30312",
+		"size": 27,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Upper Barracks 13",
+		"id": "30313",
+		"size": 16,
+		"rent": 25000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Market 1 (Shop)",
+		"id": "30401",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Market 2 (Shop)",
+		"id": "30402",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Market 3 (Shop)",
+		"id": "30403",
+		"size": 29,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "The Market 4 (Shop)",
+		"id": "30404",
+		"size": 36,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Forge Master's Quarters",
+		"id": "30405",
+		"size": 352,
+		"rent": 300000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 1",
+		"id": "30501",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 4",
+		"id": "30502",
+		"size": 26,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 5",
+		"id": "30504",
+		"size": 58,
+		"rent": 100000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 2",
+		"id": "30507",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 6",
+		"id": "30510",
+		"size": 58,
+		"rent": 100000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 3",
+		"id": "30511",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 7",
+		"id": "30512",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 10",
+		"id": "30513",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 9",
+		"id": "30517",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lower Barracks 8",
+		"id": "30523",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 1",
+		"id": "30601",
+		"size": 27,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 2 ",
+		"id": "30602",
+		"size": 27,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 3",
+		"id": "30603",
+		"size": 30,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 4",
+		"id": "30604",
+		"size": 30,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 5",
+		"id": "30605",
+		"size": 21,
+		"rent": 25000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 6",
+		"id": "30606",
+		"size": 21,
+		"rent": 25000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 7",
+		"id": "30607",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 8",
+		"id": "30608",
+		"size": 21,
+		"rent": 25000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Tunnel Gardens 9",
+		"id": "30610",
+		"size": 81,
+		"rent": 150000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Camp 1",
+		"id": "32001",
+		"size": 39,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Camp 2",
+		"id": "32002",
+		"size": 14,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Camp 3",
+		"id": "32003",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Camp 4",
+		"id": "32004",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Camp 7",
+		"id": "32007",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Camp 9",
+		"id": "32009",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Camp 13 (Shop)",
+		"id": "32013",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Camp 14 (Shop)",
+		"id": "32014",
+		"size": 16,
+		"rent": 25000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Hare's Den",
+		"id": "32016",
+		"size": 180,
+		"rent": 150000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Lost Cavern",
+		"id": "33001",
+		"size": 471,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "Dagger Alley 1",
+		"id": "35006",
+		"size": 57,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "Iron Alley 1",
+		"id": "35007",
+		"size": 70,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Iron Alley 2",
+		"id": "35008",
+		"size": 70,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Dream Street 1 (Shop)",
+		"id": "35009",
+		"size": 94,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Dream Street 2",
+		"id": "35010",
+		"size": 72,
+		"rent": 400000
+	},
+	{
+		"city": "Venore",
+		"name": "Dream Street 3",
+		"id": "35011",
+		"size": 58,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Dream Street 4",
+		"id": "35012",
+		"size": 77,
+		"rent": 400000
+	},
+	{
+		"city": "Venore",
+		"name": "Elm Street 1",
+		"id": "35013",
+		"size": 58,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Elm Street 2",
+		"id": "35014",
+		"size": 57,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Elm Street 3",
+		"id": "35015",
+		"size": 59,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Elm Street 4",
+		"id": "35016",
+		"size": 56,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Seagull Walk 1",
+		"id": "35017",
+		"size": 111,
+		"rent": 800000
+	},
+	{
+		"city": "Venore",
+		"name": "Seagull Walk 2",
+		"id": "35018",
+		"size": 57,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Lucky Lane 1 (Shop)",
+		"id": "35019",
+		"size": 148,
+		"rent": 800000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 01",
+		"id": "35020",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 02",
+		"id": "35021",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 03",
+		"id": "35022",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 04",
+		"id": "35023",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 05",
+		"id": "35024",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 06",
+		"id": "35025",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 07",
+		"id": "35026",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 11",
+		"id": "35027",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 12",
+		"id": "35028",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 13",
+		"id": "35029",
+		"size": 10,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 14",
+		"id": "35030",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 15",
+		"id": "35031",
+		"size": 10,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 16",
+		"id": "35032",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 17",
+		"id": "35033",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 18",
+		"id": "35034",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 21",
+		"id": "35035",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 22",
+		"id": "35036",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 23",
+		"id": "35037",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 24",
+		"id": "35038",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 25",
+		"id": "35039",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 26",
+		"id": "35040",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 27",
+		"id": "35041",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 28",
+		"id": "35042",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 31",
+		"id": "35043",
+		"size": 19,
+		"rent": 80000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 32",
+		"id": "35044",
+		"size": 23,
+		"rent": 100000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 33",
+		"id": "35045",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Venore",
+		"name": "Paupers Palace, Flat 34",
+		"id": "35046",
+		"size": 35,
+		"rent": 100000
+	},
+	{
+		"city": "Venore",
+		"name": "Salvation Street 1 (Shop)",
+		"id": "35047",
+		"size": 132,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Salvation Street 2",
+		"id": "35048",
+		"size": 82,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Salvation Street 3",
+		"id": "35049",
+		"size": 82,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Mystic Lane 1",
+		"id": "35050",
+		"size": 61,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Mystic Lane 2",
+		"id": "35051",
+		"size": 64,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "Silver Street 1",
+		"id": "35052",
+		"size": 57,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "Silver Street 2",
+		"id": "35053",
+		"size": 44,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "Silver Street 3",
+		"id": "35054",
+		"size": 44,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "Silver Street 4",
+		"id": "35055",
+		"size": 71,
+		"rent": 300000
+	},
+	{
+		"city": "Venore",
+		"name": "Loot Lane 1 (Shop)",
+		"id": "35056",
+		"size": 97,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Old Lighthouse",
+		"id": "35057",
+		"size": 78,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "Market Street 1",
+		"id": "35058",
+		"size": 144,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Market Street 2",
+		"id": "35059",
+		"size": 105,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Market Street 3",
+		"id": "35060",
+		"size": 75,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Market Street 4 (Shop)",
+		"id": "35061",
+		"size": 109,
+		"rent": 800000
+	},
+	{
+		"city": "Venore",
+		"name": "Market Street 5 (Shop)",
+		"id": "35062",
+		"size": 135,
+		"rent": 800000
+	},
+	{
+		"city": "Venore",
+		"name": "Market Street 6",
+		"id": "35063",
+		"size": 113,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Market Street 7",
+		"id": "35064",
+		"size": 49,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "The Lair",
+		"id": "35065",
+		"size": 166,
+		"rent": 200000
+	},
+	{
+		"city": "Venore",
+		"name": "Mystic Lane 3 (Tower)",
+		"id": "35066",
+		"size": 118,
+		"rent": 800000
+	},
+	{
+		"city": "Venore",
+		"name": "Lucky Lane 2 (Tower)",
+		"id": "35067",
+		"size": 118,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Lucky Lane 3 (Tower)",
+		"id": "35068",
+		"size": 118,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Iron Alley Watch, Upper",
+		"id": "35069",
+		"size": 114,
+		"rent": 600000
+	},
+	{
+		"city": "Venore",
+		"name": "Iron Alley Watch, Lower",
+		"id": "35070",
+		"size": 115,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Aureate Court 1",
+		"id": "37001",
+		"size": 126,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Aureate Court 2",
+		"id": "37002",
+		"size": 119,
+		"rent": 400000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Aureate Court 3",
+		"id": "37003",
+		"size": 105,
+		"rent": 400000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Aureate Court 4",
+		"id": "37004",
+		"size": 92,
+		"rent": 400000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Fortune Wing 1",
+		"id": "37005",
+		"size": 247,
+		"rent": 800000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Fortune Wing 2",
+		"id": "37006",
+		"size": 137,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Fortune Wing 3",
+		"id": "37007",
+		"size": 141,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Fortune Wing 4",
+		"id": "37008",
+		"size": 141,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Luminous Arc 1",
+		"id": "37009",
+		"size": 159,
+		"rent": 800000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Luminous Arc 2",
+		"id": "37010",
+		"size": 154,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Luminous Arc 3",
+		"id": "37011",
+		"size": 130,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Luminous Arc 4",
+		"id": "37012",
+		"size": 190,
+		"rent": 800000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Radiant Plaza 1",
+		"id": "37013",
+		"size": 133,
+		"rent": 800000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Radiant Plaza 2",
+		"id": "37014",
+		"size": 93,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Radiant Plaza 3",
+		"id": "37015",
+		"size": 120,
+		"rent": 800000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Radiant Plaza 4",
+		"id": "37016",
+		"size": 186,
+		"rent": 800000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Harbour Promenade 1",
+		"id": "37017",
+		"size": 129,
+		"rent": 800000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Luminous Arc 5",
+		"id": "37018",
+		"size": 117,
+		"rent": 800000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Aureate Court 5",
+		"id": "37019",
+		"size": 142,
+		"rent": 600000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Mad Scientist's Lab",
+		"id": "37020",
+		"size": 169,
+		"rent": 600000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 1",
+		"id": "40101",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 2",
+		"id": "40102",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 3",
+		"id": "40103",
+		"size": 33,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 4",
+		"id": "40104",
+		"size": 43,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 5",
+		"id": "40105",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 6",
+		"id": "40106",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 7",
+		"id": "40107",
+		"size": 28,
+		"rent": 200000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 8",
+		"id": "40108",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 9",
+		"id": "40109",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Underwood 10",
+		"id": "40110",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Great Willow Western Wing",
+		"id": "40211",
+		"size": 53,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Great Willow 1",
+		"id": "40212",
+		"size": 28,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Great Willow 2b",
+		"id": "40222",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Great Willow 2a",
+		"id": "40224",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Great Willow 3a",
+		"id": "40234",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Great Willow 4a",
+		"id": "40242",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Great Willow 4b",
+		"id": "40243",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Great Willow 3b",
+		"id": "40244",
+		"size": 32,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Mangrove 1",
+		"id": "40301",
+		"size": 31,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Mangrove 2",
+		"id": "40302",
+		"size": 25,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Mangrove 3",
+		"id": "40303",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Mangrove 4",
+		"id": "40304",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 1",
+		"id": "40401",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 2",
+		"id": "40402",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 3 (Shop)",
+		"id": "40403",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 4 (Shop)",
+		"id": "40404",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 5 (Shop)",
+		"id": "40405",
+		"size": 27,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 6",
+		"id": "40406",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 7",
+		"id": "40407",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 8",
+		"id": "40408",
+		"size": 16,
+		"rent": 25000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 9",
+		"id": "40409",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 10",
+		"id": "40410",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 11",
+		"id": "40411",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 12 (Shop)",
+		"id": "40412",
+		"size": 27,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Treetop 13",
+		"id": "40413",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Prima Arbor",
+		"id": "40414",
+		"size": 197,
+		"rent": 400000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 1",
+		"id": "40501",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 2",
+		"id": "40502",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 3",
+		"id": "40503",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 4",
+		"id": "40504",
+		"size": 19,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 5",
+		"id": "40505",
+		"size": 26,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 6 (Shop)",
+		"id": "40506",
+		"size": 29,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 7",
+		"id": "40507",
+		"size": 12,
+		"rent": 25000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 8",
+		"id": "40508",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 9",
+		"id": "40509",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Coastwood 10",
+		"id": "40510",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Shadow Caves 1",
+		"id": "40611",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Shadow Caves 2",
+		"id": "40614",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Shadow Caves 3",
+		"id": "40621",
+		"size": 44,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Shadow Caves 4",
+		"id": "40622",
+		"size": 44,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Shadow Caves 5",
+		"id": "40625",
+		"size": 44,
+		"rent": 100000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Shadow Caves 6",
+		"id": "40638",
+		"size": 44,
+		"rent": 100000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Haggler's Hangout 1",
+		"id": "45001",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Haggler's Hangout 2",
+		"id": "45002",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Haggler's Hangout 3",
+		"id": "45003",
+		"size": 145,
+		"rent": 300000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Haggler's Hangout 4a (Shop)",
+		"id": "45004",
+		"size": 37,
+		"rent": 200000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Haggler's Hangout 4b (Shop)",
+		"id": "45005",
+		"size": 31,
+		"rent": 150000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Haggler's Hangout 5 (Shop)",
+		"id": "45006",
+		"size": 31,
+		"rent": 200000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Haggler's Hangout 6",
+		"id": "45007",
+		"size": 123,
+		"rent": 400000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Haggler's Hangout 7",
+		"id": "45008",
+		"size": 141,
+		"rent": 400000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Big Game Hunter's Lodge",
+		"id": "45009",
+		"size": 164,
+		"rent": 600000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Banana Bay 1",
+		"id": "46001",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Banana Bay 2",
+		"id": "46002",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Banana Bay 3",
+		"id": "46003",
+		"size": 10,
+		"rent": 50000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Banana Bay 4",
+		"id": "46004",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Crocodile Bridge 1",
+		"id": "46005",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Crocodile Bridge 2",
+		"id": "46006",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Crocodile Bridge 3",
+		"id": "46007",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Crocodile Bridge 4",
+		"id": "46008",
+		"size": 99,
+		"rent": 300000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Crocodile Bridge 5",
+		"id": "46009",
+		"size": 86,
+		"rent": 200000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Woodway 1",
+		"id": "46010",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Woodway 2",
+		"id": "46011",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Woodway 3",
+		"id": "46012",
+		"size": 32,
+		"rent": 150000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Woodway 4",
+		"id": "46013",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Flamingo Flats 1",
+		"id": "46014",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Flamingo Flats 2",
+		"id": "46015",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Flamingo Flats 3",
+		"id": "46016",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Flamingo Flats 4",
+		"id": "46017",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Flamingo Flats 5",
+		"id": "46018",
+		"size": 41,
+		"rent": 150000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Bamboo Garden 1",
+		"id": "46019",
+		"size": 32,
+		"rent": 100000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Bamboo Garden 2",
+		"id": "46020",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Bamboo Garden 3",
+		"id": "46021",
+		"size": 32,
+		"rent": 150000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Coconut Quay 1",
+		"id": "46022",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Coconut Quay 2",
+		"id": "46023",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Coconut Quay 3",
+		"id": "46024",
+		"size": 41,
+		"rent": 200000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Coconut Quay 4",
+		"id": "46025",
+		"size": 43,
+		"rent": 150000
+	},
+	{
+		"city": "Port Hope",
+		"name": "River Homes 1",
+		"id": "46026",
+		"size": 73,
+		"rent": 300000
+	},
+	{
+		"city": "Port Hope",
+		"name": "River Homes 2a",
+		"id": "46027",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Port Hope",
+		"name": "River Homes 2b",
+		"id": "46028",
+		"size": 31,
+		"rent": 150000
+	},
+	{
+		"city": "Port Hope",
+		"name": "River Homes 3",
+		"id": "46029",
+		"size": 99,
+		"rent": 200000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Jungle Edge 1",
+		"id": "46030",
+		"size": 51,
+		"rent": 200000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Jungle Edge 2",
+		"id": "46031",
+		"size": 66,
+		"rent": 200000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Jungle Edge 3",
+		"id": "46032",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Jungle Edge 4",
+		"id": "46033",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Jungle Edge 5",
+		"id": "46034",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Jungle Edge 6",
+		"id": "46035",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Issavi",
+		"name": "Marketplace 1",
+		"id": "48001",
+		"size": 74,
+		"rent": 400000
+	},
+	{
+		"city": "Issavi",
+		"name": "Marketplace 2",
+		"id": "48002",
+		"size": 81,
+		"rent": 400000
+	},
+	{
+		"city": "Issavi",
+		"name": "Quay 1",
+		"id": "48003",
+		"size": 124,
+		"rent": 200000
+	},
+	{
+		"city": "Issavi",
+		"name": "Quay 2",
+		"id": "48004",
+		"size": 81,
+		"rent": 200000
+	},
+	{
+		"city": "Issavi",
+		"name": "Wave Tower",
+		"id": "48005",
+		"size": 178,
+		"rent": 400000
+	},
+	{
+		"city": "Issavi",
+		"name": "Palace Vicinity",
+		"id": "48006",
+		"size": 114,
+		"rent": 200000
+	},
+	{
+		"city": "Issavi",
+		"name": "Marketplace 3",
+		"id": "48008",
+		"size": 130,
+		"rent": 400000
+	},
+	{
+		"city": "Issavi",
+		"name": "Hanging Gardens 1",
+		"id": "48009",
+		"size": 178,
+		"rent": 400000
+	},
+	{
+		"city": "Silvertides",
+		"name": "Centre 1",
+		"id": "49001",
+		"size": 85,
+		"rent": 600000
+	},
+	{
+		"city": "Silvertides",
+		"name": "Centre 2",
+		"id": "49002",
+		"size": 94,
+		"rent": 600000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle Shop 1",
+		"id": "50101",
+		"size": 42,
+		"rent": 400000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle Shop 2",
+		"id": "50102",
+		"size": 42,
+		"rent": 400000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle Shop 3",
+		"id": "50103",
+		"size": 42,
+		"rent": 300000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 3rd Floor, Flat 01",
+		"id": "50104",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 3rd Floor, Flat 02",
+		"id": "50105",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 3rd Floor, Flat 03",
+		"id": "50106",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 3rd Floor, Flat 04",
+		"id": "50107",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 3rd Floor, Flat 05",
+		"id": "50108",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 3rd Floor, Flat 06",
+		"id": "50109",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 3rd Floor, Flat 07",
+		"id": "50110",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 01",
+		"id": "50111",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 02",
+		"id": "50112",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 03",
+		"id": "50113",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 04",
+		"id": "50114",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 05",
+		"id": "50115",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 06",
+		"id": "50116",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 07",
+		"id": "50117",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 08",
+		"id": "50118",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, 4th Floor, Flat 09",
+		"id": "50119",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 01",
+		"id": "50120",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 02",
+		"id": "50121",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 03",
+		"id": "50122",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 04",
+		"id": "50123",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 05",
+		"id": "50124",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 06",
+		"id": "50125",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 07",
+		"id": "50126",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 08",
+		"id": "50127",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Basement, Flat 09",
+		"id": "50128",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle, Residence",
+		"id": "50129",
+		"size": 104,
+		"rent": 600000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle Street 1",
+		"id": "50201",
+		"size": 60,
+		"rent": 300000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle Street 2",
+		"id": "50202",
+		"size": 31,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle Street 3",
+		"id": "50203",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle Street 4",
+		"id": "50204",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle Street 5",
+		"id": "50205",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 01",
+		"id": "50301",
+		"size": 10,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 02",
+		"id": "50302",
+		"size": 19,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 03",
+		"id": "50303",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 04",
+		"id": "50304",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 05",
+		"id": "50305",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 06",
+		"id": "50306",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 07",
+		"id": "50307",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 08",
+		"id": "50308",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 11",
+		"id": "50309",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 12",
+		"id": "50311",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 13",
+		"id": "50312",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 14",
+		"id": "50315",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 21",
+		"id": "50317",
+		"size": 19,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 22",
+		"id": "50318",
+		"size": 10,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 23",
+		"id": "50319",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 24",
+		"id": "50321",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Flat 25",
+		"id": "50323",
+		"size": 29,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Basement Flat 1",
+		"id": "50325",
+		"size": 36,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Edron Flats, Basement Flat 2",
+		"id": "50326",
+		"size": 36,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 1",
+		"id": "50401",
+		"size": 73,
+		"rent": 800000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 2",
+		"id": "50402",
+		"size": 80,
+		"rent": 800000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 3",
+		"id": "50403",
+		"size": 94,
+		"rent": 800000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 4",
+		"id": "50404",
+		"size": 94,
+		"rent": 800000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 5",
+		"id": "50405",
+		"size": 94,
+		"rent": 800000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 6 (Shop)",
+		"id": "50406",
+		"size": 97,
+		"rent": 400000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 7 (Shop)",
+		"id": "50407",
+		"size": 97,
+		"rent": 400000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 8 (Shop)",
+		"id": "50408",
+		"size": 97,
+		"rent": 400000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 9a",
+		"id": "50409",
+		"size": 21,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Central Circle 9b",
+		"id": "50410",
+		"size": 21,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 1",
+		"id": "50501",
+		"size": 37,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 2",
+		"id": "50502",
+		"size": 37,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 3",
+		"id": "50503",
+		"size": 37,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 4",
+		"id": "50504",
+		"size": 37,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 5",
+		"id": "50505",
+		"size": 37,
+		"rent": 300000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 6a",
+		"id": "50506",
+		"size": 30,
+		"rent": 300000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 6b",
+		"id": "50507",
+		"size": 30,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 7",
+		"id": "50508",
+		"size": 128,
+		"rent": 800000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 8",
+		"id": "50509",
+		"size": 128,
+		"rent": 800000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 9a",
+		"id": "50510",
+		"size": 32,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 9b",
+		"id": "50511",
+		"size": 31,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 10a",
+		"id": "50512",
+		"size": 32,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 10b",
+		"id": "50513",
+		"size": 31,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 11",
+		"id": "50514",
+		"size": 149,
+		"rent": 600000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 4a",
+		"id": "50515",
+		"size": 31,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 4b",
+		"id": "50516",
+		"size": 31,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Wood Avenue 4c",
+		"id": "50517",
+		"size": 37,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Stronghold",
+		"id": "50518",
+		"size": 215,
+		"rent": 800000
+	},
+	{
+		"city": "Edron",
+		"name": "Sky Lane, Sea Tower",
+		"id": "50604",
+		"size": 95,
+		"rent": 300000
+	},
+	{
+		"city": "Edron",
+		"name": "Magic Academy, Shop",
+		"id": "50702",
+		"size": 29,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Magic Academy, Flat 1",
+		"id": "50703",
+		"size": 23,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Magic Academy, Flat 2",
+		"id": "50704",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Magic Academy, Flat 3",
+		"id": "50705",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Magic Academy, Flat 4",
+		"id": "50706",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Magic Academy, Flat 5",
+		"id": "50707",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 1",
+		"id": "52001",
+		"size": 42,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 2",
+		"id": "52002",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 3",
+		"id": "52003",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 4",
+		"id": "52004",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 5",
+		"id": "52005",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 6",
+		"id": "52006",
+		"size": 30,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 7",
+		"id": "52007",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 8",
+		"id": "52008",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Village 9",
+		"id": "52009",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Flats, Flat 01",
+		"id": "52010",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Flats, Flat 02",
+		"id": "52011",
+		"size": 16,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Flats, Flat 03",
+		"id": "52012",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Flats, Flat 04",
+		"id": "52013",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Flats, Flat 11",
+		"id": "52016",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Flats, Flat 12",
+		"id": "52017",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Flats, Flat 13",
+		"id": "52020",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Flats, Flat 14",
+		"id": "52021",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Moonfall",
+		"name": "Cliffside",
+		"id": "53001",
+		"size": 160,
+		"rent": 600000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 01",
+		"id": "54001",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 02",
+		"id": "54002",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 03",
+		"id": "54003",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 04",
+		"id": "54004",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 05",
+		"id": "54005",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 06",
+		"id": "54006",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 11",
+		"id": "54007",
+		"size": 22,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 13",
+		"id": "54009",
+		"size": 16,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 14",
+		"id": "54010",
+		"size": 16,
+		"rent": 25000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya Flats, Flat 12",
+		"id": "54012",
+		"size": 22,
+		"rent": 100000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 1",
+		"id": "54013",
+		"size": 26,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 2",
+		"id": "54014",
+		"size": 78,
+		"rent": 300000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 3",
+		"id": "54015",
+		"size": 43,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 4",
+		"id": "54016",
+		"size": 36,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 5",
+		"id": "54017",
+		"size": 115,
+		"rent": 300000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 6",
+		"id": "54018",
+		"size": 51,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 7",
+		"id": "54019",
+		"size": 51,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 8",
+		"id": "54020",
+		"size": 58,
+		"rent": 200000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 9a",
+		"id": "54021",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 9b",
+		"id": "54022",
+		"size": 56,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 9c",
+		"id": "54023",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 9d",
+		"id": "54024",
+		"size": 56,
+		"rent": 150000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 10",
+		"id": "54025",
+		"size": 80,
+		"rent": 300000
+	},
+	{
+		"city": "Edron",
+		"name": "Cormaya 11",
+		"id": "54026",
+		"size": 43,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Shelf Site",
+		"id": "55001",
+		"size": 92,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Glacier Side 1",
+		"id": "55002",
+		"size": 30,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Glacier Side 2",
+		"id": "55003",
+		"size": 91,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Glacier Side 3",
+		"id": "55004",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Glacier Side 4",
+		"id": "55005",
+		"size": 41,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Spirit Homes 1",
+		"id": "55006",
+		"size": 32,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Spirit Homes 2",
+		"id": "55007",
+		"size": 36,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Spirit Homes 3",
+		"id": "55008",
+		"size": 81,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Spirit Homes 4",
+		"id": "55009",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Spirit Homes 5",
+		"id": "55010",
+		"size": 27,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Arena Walk 1",
+		"id": "55011",
+		"size": 61,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Arena Walk 2",
+		"id": "55012",
+		"size": 26,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Arena Walk 3",
+		"id": "55013",
+		"size": 67,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Mammoth House",
+		"id": "55014",
+		"size": 176,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Lakeside Mansion",
+		"id": "55015",
+		"size": 124,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Bears Paw 1",
+		"id": "55101",
+		"size": 38,
+		"rent": 200000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Bears Paw 2",
+		"id": "55102",
+		"size": 49,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Bears Paw 3",
+		"id": "55103",
+		"size": 42,
+		"rent": 200000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Bears Paw 4",
+		"id": "55104",
+		"size": 109,
+		"rent": 400000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Bears Paw 5",
+		"id": "55105",
+		"size": 41,
+		"rent": 200000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Raven Corner 1",
+		"id": "55106",
+		"size": 19,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Raven Corner 2",
+		"id": "55107",
+		"size": 33,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Raven Corner 3",
+		"id": "55108",
+		"size": 19,
+		"rent": 100000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Skiffs End 1",
+		"id": "55109",
+		"size": 32,
+		"rent": 100000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Skiffs End 2",
+		"id": "55110",
+		"size": 18,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Trout Plaza 1",
+		"id": "55111",
+		"size": 51,
+		"rent": 200000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Trout Plaza 2",
+		"id": "55112",
+		"size": 32,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Trout Plaza 3",
+		"id": "55113",
+		"size": 20,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Trout Plaza 4",
+		"id": "55114",
+		"size": 20,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Trout Plaza 5 (Shop)",
+		"id": "55115",
+		"size": 84,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 1",
+		"id": "55116",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 2",
+		"id": "55117",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 3",
+		"id": "55118",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 4",
+		"id": "55119",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 5",
+		"id": "55120",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 6",
+		"id": "55121",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 7",
+		"id": "55122",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 8",
+		"id": "55123",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 9",
+		"id": "55124",
+		"size": 10,
+		"rent": 50000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Pilchard Bin 10",
+		"id": "55125",
+		"size": 10,
+		"rent": 50000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Shady Rocks 1",
+		"id": "55126",
+		"size": 74,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Shady Rocks 2",
+		"id": "55127",
+		"size": 38,
+		"rent": 200000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Shady Rocks 3",
+		"id": "55128",
+		"size": 87,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Shady Rocks 4 (Shop)",
+		"id": "55129",
+		"size": 58,
+		"rent": 200000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Shady Rocks 5",
+		"id": "55130",
+		"size": 62,
+		"rent": 300000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Corner Shop (Shop)",
+		"id": "55131",
+		"size": 47,
+		"rent": 200000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Tusk Flats 1",
+		"id": "55201",
+		"size": 19,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Tusk Flats 2",
+		"id": "55202",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Tusk Flats 3",
+		"id": "55203",
+		"size": 16,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Tusk Flats 4",
+		"id": "55204",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Tusk Flats 5",
+		"id": "55205",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Tusk Flats 6",
+		"id": "55206",
+		"size": 16,
+		"rent": 50000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Fimbul Shelf 1",
+		"id": "55207",
+		"size": 25,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Fimbul Shelf 2",
+		"id": "55208",
+		"size": 27,
+		"rent": 100000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Fimbul Shelf 3",
+		"id": "55209",
+		"size": 33,
+		"rent": 100000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Fimbul Shelf 4",
+		"id": "55210",
+		"size": 27,
+		"rent": 100000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Furrier Quarter 1",
+		"id": "55211",
+		"size": 41,
+		"rent": 150000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Furrier Quarter 2",
+		"id": "55212",
+		"size": 27,
+		"rent": 80000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Furrier Quarter 3",
+		"id": "55213",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Low Waters Observatory",
+		"id": "57001",
+		"size": 480,
+		"rent": 400000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Chameken I",
+		"id": "58000",
+		"size": 17,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Chameken II",
+		"id": "58001",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah I a",
+		"id": "58002",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah I b",
+		"id": "58003",
+		"size": 56,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah I c",
+		"id": "58004",
+		"size": 61,
+		"rent": 200000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah I d",
+		"id": "58005",
+		"size": 52,
+		"rent": 200000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah II a",
+		"id": "58006",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah II b",
+		"id": "58007",
+		"size": 9,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah II c",
+		"id": "58008",
+		"size": 9,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah II d",
+		"id": "58009",
+		"size": 7,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah II e",
+		"id": "58010",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah II f",
+		"id": "58011",
+		"size": 53,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah II g",
+		"id": "58012",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thanah II h",
+		"id": "58013",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thrarhor I a (Shop)",
+		"id": "58014",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thrarhor I b (Shop)",
+		"id": "58015",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thrarhor I c (Shop)",
+		"id": "58016",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Thrarhor I d (Shop)",
+		"id": "58017",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham I a",
+		"id": "58018",
+		"size": 19,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham I b",
+		"id": "58019",
+		"size": 56,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham I c",
+		"id": "58020",
+		"size": 32,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham I d",
+		"id": "58021",
+		"size": 57,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham I e",
+		"id": "58022",
+		"size": 31,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham II a",
+		"id": "58023",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham II b",
+		"id": "58024",
+		"size": 30,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham II c",
+		"id": "58025",
+		"size": 23,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham II d",
+		"id": "58026",
+		"size": 37,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham II e",
+		"id": "58027",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham II f",
+		"id": "58028",
+		"size": 31,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham II g",
+		"id": "58029",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham III a",
+		"id": "58030",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham III b",
+		"id": "58031",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham III c",
+		"id": "58032",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham III e",
+		"id": "58034",
+		"size": 38,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham III f",
+		"id": "58035",
+		"size": 43,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham III g",
+		"id": "58036",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham III h",
+		"id": "58037",
+		"size": 71,
+		"rent": 200000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham IV a",
+		"id": "58038",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham IV e",
+		"id": "58042",
+		"size": 84,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham IV f",
+		"id": "58043",
+		"size": 32,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham IV g",
+		"id": "58044",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham IV h",
+		"id": "58045",
+		"size": 37,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Botham IV i",
+		"id": "58046",
+		"size": 32,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Charsirakh I a",
+		"id": "59000",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Charsirakh I b",
+		"id": "59001",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Charsirakh II",
+		"id": "59002",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Charsirakh III",
+		"id": "59003",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep I a",
+		"id": "59004",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep I b",
+		"id": "59005",
+		"size": 32,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep I c",
+		"id": "59006",
+		"size": 38,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep I d",
+		"id": "59007",
+		"size": 43,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep II a",
+		"id": "59008",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep II b",
+		"id": "59009",
+		"size": 43,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep II c",
+		"id": "59010",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep II d",
+		"id": "59011",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep II e",
+		"id": "59012",
+		"size": 31,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep II f",
+		"id": "59013",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep III a",
+		"id": "59014",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep III b",
+		"id": "59015",
+		"size": 31,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep III c",
+		"id": "59016",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep III d",
+		"id": "59017",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep III e",
+		"id": "59018",
+		"size": 21,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Othehothep III f",
+		"id": "59019",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Murkhol I a",
+		"id": "59021",
+		"size": 23,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Murkhol I b",
+		"id": "59022",
+		"size": 11,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Murkhol I c",
+		"id": "59023",
+		"size": 11,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I a",
+		"id": "59025",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I b",
+		"id": "59026",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I c",
+		"id": "59027",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I d",
+		"id": "59028",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I e",
+		"id": "59029",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I f",
+		"id": "59030",
+		"size": 21,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I g",
+		"id": "59031",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I h",
+		"id": "59032",
+		"size": 39,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I i",
+		"id": "59033",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Oskahl I j",
+		"id": "59034",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Mothrem I",
+		"id": "59035",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Arakmehn I",
+		"id": "59036",
+		"size": 28,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Arakmehn II",
+		"id": "59037",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Arakmehn III",
+		"id": "59038",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Arakmehn IV",
+		"id": "59039",
+		"size": 28,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath I a",
+		"id": "59040",
+		"size": 26,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath I b",
+		"id": "59041",
+		"size": 34,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath I c",
+		"id": "59042",
+		"size": 34,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath I d",
+		"id": "59043",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath I e",
+		"id": "59044",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath I f",
+		"id": "59045",
+		"size": 37,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath I g",
+		"id": "59046",
+		"size": 37,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath II a",
+		"id": "59047",
+		"size": 26,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath II b",
+		"id": "59048",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath II c",
+		"id": "59049",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Unklath II d",
+		"id": "59050",
+		"size": 37,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal I a",
+		"id": "59051",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal I b",
+		"id": "59052",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal I c",
+		"id": "59053",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal I d",
+		"id": "59054",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal I e",
+		"id": "59055",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal II a",
+		"id": "59056",
+		"size": 26,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal II b",
+		"id": "59057",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal II c",
+		"id": "59058",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Rathal II d",
+		"id": "59059",
+		"size": 34,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Uthemath I a",
+		"id": "59060",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Uthemath I b",
+		"id": "59061",
+		"size": 20,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Uthemath I c",
+		"id": "59062",
+		"size": 20,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Uthemath I d",
+		"id": "59063",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Uthemath I e",
+		"id": "59064",
+		"size": 21,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Uthemath I f",
+		"id": "59065",
+		"size": 56,
+		"rent": 150000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Esuph I",
+		"id": "59067",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Esuph II a",
+		"id": "59068",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Esuph II b",
+		"id": "59069",
+		"size": 32,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Esuph III a",
+		"id": "59070",
+		"size": 7,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Esuph III b",
+		"id": "59071",
+		"size": 31,
+		"rent": 100000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Esuph IV a",
+		"id": "59072",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Esuph IV c",
+		"id": "59074",
+		"size": 23,
+		"rent": 80000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Esuph IV d",
+		"id": "59075",
+		"size": 20,
+		"rent": 25000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 01",
+		"id": "61000",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 02",
+		"id": "61001",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 03",
+		"id": "61002",
+		"size": 59,
+		"rent": 300000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 04",
+		"id": "61003",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 05",
+		"id": "61004",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 11",
+		"id": "61005",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 12",
+		"id": "61006",
+		"size": 42,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 13",
+		"id": "61007",
+		"size": 42,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 1, Flat 14",
+		"id": "61008",
+		"size": 59,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 01",
+		"id": "61009",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 02",
+		"id": "61010",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 03",
+		"id": "61011",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 04",
+		"id": "61012",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 05",
+		"id": "61013",
+		"size": 29,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 06",
+		"id": "61014",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 07",
+		"id": "61015",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 11",
+		"id": "61016",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 12",
+		"id": "61017",
+		"size": 13,
+		"rent": 80000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 13",
+		"id": "61018",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 14",
+		"id": "61019",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 15",
+		"id": "61020",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 16",
+		"id": "61021",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 17",
+		"id": "61022",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 2, Flat 18",
+		"id": "61023",
+		"size": 17,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 01",
+		"id": "61024",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 02",
+		"id": "61025",
+		"size": 38,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 03",
+		"id": "61026",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 04",
+		"id": "61027",
+		"size": 38,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 05",
+		"id": "61028",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 11",
+		"id": "61029",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 12",
+		"id": "61030",
+		"size": 55,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 13",
+		"id": "61031",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 3, Flat 14",
+		"id": "61032",
+		"size": 55,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 01",
+		"id": "61033",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 02",
+		"id": "61034",
+		"size": 42,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 03",
+		"id": "61035",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 04",
+		"id": "61036",
+		"size": 42,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 05",
+		"id": "61037",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 11",
+		"id": "61038",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 12",
+		"id": "61039",
+		"size": 59,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 13",
+		"id": "61040",
+		"size": 42,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 4, Flat 14",
+		"id": "61041",
+		"size": 42,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 01",
+		"id": "61042",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 02",
+		"id": "61043",
+		"size": 38,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 03",
+		"id": "61044",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 04",
+		"id": "61045",
+		"size": 38,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 05",
+		"id": "61046",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 11",
+		"id": "61047",
+		"size": 42,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 12",
+		"id": "61048",
+		"size": 38,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 13",
+		"id": "61049",
+		"size": 42,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 5, Flat 14",
+		"id": "61050",
+		"size": 38,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 6a",
+		"id": "62000",
+		"size": 67,
+		"rent": 300000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 6b",
+		"id": "62001",
+		"size": 74,
+		"rent": 300000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 01",
+		"id": "62002",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 02",
+		"id": "62003",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 03",
+		"id": "62004",
+		"size": 59,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 04",
+		"id": "62005",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 05",
+		"id": "62006",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 11",
+		"id": "62007",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 12",
+		"id": "62008",
+		"size": 59,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 13",
+		"id": "62009",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 7, Flat 14",
+		"id": "62010",
+		"size": 59,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 01",
+		"id": "62011",
+		"size": 53,
+		"rent": 300000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 02",
+		"id": "62012",
+		"size": 73,
+		"rent": 300000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 03",
+		"id": "62013",
+		"size": 100,
+		"rent": 300000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 04",
+		"id": "62014",
+		"size": 61,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 05",
+		"id": "62015",
+		"size": 57,
+		"rent": 300000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia, Villa",
+		"id": "62016",
+		"size": 113,
+		"rent": 800000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 11",
+		"id": "62019",
+		"size": 42,
+		"rent": 200000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 12",
+		"id": "62020",
+		"size": 38,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 13",
+		"id": "62021",
+		"size": 42,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia 8, Flat 14",
+		"id": "62022",
+		"size": 38,
+		"rent": 150000
+	},
+	{
+		"city": "Darashia",
+		"name": "Pirate Shipwreck 1",
+		"id": "62023",
+		"size": 147,
+		"rent": 800000
+	},
+	{
+		"city": "Darashia",
+		"name": "Pirate Shipwreck 2",
+		"id": "62024",
+		"size": 177,
+		"rent": 800000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Marble Lane 1",
+		"id": "63001",
+		"size": 192,
+		"rent": 600000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Marble Lane 2",
+		"id": "63002",
+		"size": 113,
+		"rent": 400000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Marble Lane 3",
+		"id": "63003",
+		"size": 141,
+		"rent": 600000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Marble Lane 4",
+		"id": "63004",
+		"size": 110,
+		"rent": 400000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Admiral's Avenue 1",
+		"id": "63005",
+		"size": 91,
+		"rent": 400000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Admiral's Avenue 2",
+		"id": "63006",
+		"size": 94,
+		"rent": 400000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Admiral's Avenue 3",
+		"id": "63007",
+		"size": 73,
+		"rent": 300000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Ivory Circle 1",
+		"id": "63008",
+		"size": 76,
+		"rent": 400000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Ivory Circle 2",
+		"id": "63009",
+		"size": 126,
+		"rent": 400000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Meriana Beach",
+		"id": "63010",
+		"size": 146,
+		"rent": 150000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Yeah Beach Project",
+		"id": "63011",
+		"size": 115,
+		"rent": 150000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Ivory Mansion",
+		"id": "63012",
+		"size": 265,
+		"rent": 800000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Lion's Head Reef",
+		"id": "63013",
+		"size": 149,
+		"rent": 400000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Freedom Street 1",
+		"id": "64001",
+		"size": 47,
+		"rent": 200000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Freedom Street 2",
+		"id": "64002",
+		"size": 115,
+		"rent": 400000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Trader's Point 1",
+		"id": "64003",
+		"size": 42,
+		"rent": 200000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Trader's Point 2 (Shop)",
+		"id": "64004",
+		"size": 105,
+		"rent": 600000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Trader's Point 3 (Shop)",
+		"id": "64005",
+		"size": 117,
+		"rent": 600000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 1",
+		"id": "64006",
+		"size": 56,
+		"rent": 200000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 2",
+		"id": "64007",
+		"size": 47,
+		"rent": 150000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 3a",
+		"id": "64008",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 3b",
+		"id": "64009",
+		"size": 37,
+		"rent": 150000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 4a",
+		"id": "64010",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 4b",
+		"id": "64011",
+		"size": 17,
+		"rent": 100000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 4c",
+		"id": "64012",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 4d",
+		"id": "64013",
+		"size": 13,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 01",
+		"id": "64014",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 02",
+		"id": "64015",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 03",
+		"id": "64016",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 04",
+		"id": "64017",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 05",
+		"id": "64018",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 06",
+		"id": "64019",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 07",
+		"id": "64020",
+		"size": 17,
+		"rent": 80000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 08",
+		"id": "64021",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 09",
+		"id": "64022",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 10",
+		"id": "64023",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 11",
+		"id": "64024",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Harvester's Haven, Flat 12",
+		"id": "64025",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Sugar Street 5",
+		"id": "64027",
+		"size": 25,
+		"rent": 150000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Tavern 1a",
+		"id": "64029",
+		"size": 49,
+		"rent": 150000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Tavern 1b",
+		"id": "64030",
+		"size": 36,
+		"rent": 100000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Tavern 1c",
+		"id": "64031",
+		"size": 79,
+		"rent": 200000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Tavern 1d",
+		"id": "64032",
+		"size": 29,
+		"rent": 100000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Tavern 2a",
+		"id": "64033",
+		"size": 103,
+		"rent": 300000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Tavern 2b",
+		"id": "64034",
+		"size": 32,
+		"rent": 100000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Tavern 2c",
+		"id": "64035",
+		"size": 19,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Tavern 2d",
+		"id": "64036",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Smuggler Backyard 1",
+		"id": "65001",
+		"size": 19,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Smuggler Backyard 2",
+		"id": "65002",
+		"size": 19,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Smuggler Backyard 3",
+		"id": "65003",
+		"size": 20,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Smuggler Backyard 4",
+		"id": "65004",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Smuggler Backyard 5",
+		"id": "65005",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Shady Trail 1",
+		"id": "65006",
+		"size": 25,
+		"rent": 100000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Shady Trail 2",
+		"id": "65007",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Shady Trail 3",
+		"id": "65008",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Rum Alley 1",
+		"id": "65009",
+		"size": 17,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Rum Alley 2",
+		"id": "65010",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Rum Alley 3",
+		"id": "65011",
+		"size": 11,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Straycat's Corner 1",
+		"id": "65012",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Straycat's Corner 2",
+		"id": "65013",
+		"size": 22,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Straycat's Corner 4",
+		"id": "65015",
+		"size": 17,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Straycat's Corner 5",
+		"id": "65016",
+		"size": 22,
+		"rent": 80000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Straycat's Corner 6",
+		"id": "65017",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Litter Promenade 1",
+		"id": "65018",
+		"size": 10,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Litter Promenade 2",
+		"id": "65019",
+		"size": 10,
+		"rent": 50000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Litter Promenade 3",
+		"id": "65020",
+		"size": 15,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Litter Promenade 4",
+		"id": "65021",
+		"size": 13,
+		"rent": 25000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Litter Promenade 5",
+		"id": "65022",
+		"size": 16,
+		"rent": 25000
+	}
+]

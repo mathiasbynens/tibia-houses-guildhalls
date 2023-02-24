@@ -1,0 +1,464 @@
+[
+	{
+		"city": "Thais",
+		"name": "Spiritkeep",
+		"id": "10001",
+		"size": 382,
+		"rent": 500000
+	},
+	{
+		"city": "Thais",
+		"name": "Snake Tower",
+		"id": "10002",
+		"size": 616,
+		"rent": 500000
+	},
+	{
+		"city": "Thais",
+		"name": "Halls of the Adventurers",
+		"id": "10003",
+		"size": 304,
+		"rent": 250000
+	},
+	{
+		"city": "Thais",
+		"name": "Dark Mansion",
+		"id": "10004",
+		"size": 361,
+		"rent": 1000000
+	},
+	{
+		"city": "Thais",
+		"name": "Bloodhall",
+		"id": "10005",
+		"size": 306,
+		"rent": 500000
+	},
+	{
+		"city": "Thais",
+		"name": "Southern Thais Guildhall",
+		"id": "10406",
+		"size": 349,
+		"rent": 1000000
+	},
+	{
+		"city": "Thais",
+		"name": "Thais Clanhall",
+		"id": "10601",
+		"size": 188,
+		"rent": 500000
+	},
+	{
+		"city": "Thais",
+		"name": "Warriors' Guildhall",
+		"id": "10801",
+		"size": 306,
+		"rent": 5000000
+	},
+	{
+		"city": "Thais",
+		"name": "Mercenary Tower",
+		"id": "12001",
+		"size": 607,
+		"rent": 250000
+	},
+	{
+		"city": "Thais",
+		"name": "Guildhall of the Red Rose",
+		"id": "12002",
+		"size": 405,
+		"rent": 250000
+	},
+	{
+		"city": "Thais",
+		"name": "Fibula Clanhall",
+		"id": "12010",
+		"size": 162,
+		"rent": 250000
+	},
+	{
+		"city": "Thais",
+		"name": "The Tibianic",
+		"id": "14001",
+		"size": 540,
+		"rent": 500000
+	},
+	{
+		"city": "Thais",
+		"name": "Castle of Greenshore",
+		"id": "14002",
+		"size": 296,
+		"rent": 250000
+	},
+	{
+		"city": "Thais",
+		"name": "Greenshore Clanhall",
+		"id": "14012",
+		"size": 165,
+		"rent": 250000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Rathleton Hills Estate",
+		"id": "19002",
+		"size": 433,
+		"rent": 1000000
+	},
+	{
+		"city": "Rathleton",
+		"name": "Bronze Brothers Bastion",
+		"id": "19007",
+		"size": 749,
+		"rent": 5000000
+	},
+	{
+		"city": "Carlin",
+		"name": "Moonkeep",
+		"id": "20001",
+		"size": 289,
+		"rent": 250000
+	},
+	{
+		"city": "Carlin",
+		"name": "House of Recreation",
+		"id": "20002",
+		"size": 401,
+		"rent": 500000
+	},
+	{
+		"city": "Carlin",
+		"name": "Nordic Stronghold",
+		"id": "20003",
+		"size": 410,
+		"rent": 250000
+	},
+	{
+		"city": "Carlin",
+		"name": "Carlin Clanhall",
+		"id": "20515",
+		"size": 211,
+		"rent": 250000
+	},
+	{
+		"city": "Carlin",
+		"name": "Suntower",
+		"id": "20901",
+		"size": 232,
+		"rent": 500000
+	},
+	{
+		"city": "Carlin",
+		"name": "Seawatch",
+		"id": "22005",
+		"size": 422,
+		"rent": 250000
+	},
+	{
+		"city": "Carlin",
+		"name": "Northport Clanhall",
+		"id": "22008",
+		"size": 162,
+		"rent": 250000
+	},
+	{
+		"city": "Carlin",
+		"name": "Senja Clanhall",
+		"id": "24014",
+		"size": 215,
+		"rent": 250000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Wolftower",
+		"id": "30001",
+		"size": 387,
+		"rent": 500000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Hill Hideout",
+		"id": "30002",
+		"size": 251,
+		"rent": 250000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Riverspring",
+		"id": "30003",
+		"size": 353,
+		"rent": 250000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Marble Guildhall",
+		"id": "30701",
+		"size": 338,
+		"rent": 250000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Iron Guildhall",
+		"id": "30702",
+		"size": 308,
+		"rent": 250000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Granite Guildhall",
+		"id": "30703",
+		"size": 361,
+		"rent": 250000
+	},
+	{
+		"city": "Kazordoon",
+		"name": "Outlaw Castle",
+		"id": "32015",
+		"size": 180,
+		"rent": 250000
+	},
+	{
+		"city": "Venore",
+		"name": "Blessed Shield Guildhall",
+		"id": "35001",
+		"size": 162,
+		"rent": 500000
+	},
+	{
+		"city": "Venore",
+		"name": "Steel Home",
+		"id": "35002",
+		"size": 281,
+		"rent": 500000
+	},
+	{
+		"city": "Venore",
+		"name": "Swamp Watch",
+		"id": "35003",
+		"size": 222,
+		"rent": 500000
+	},
+	{
+		"city": "Venore",
+		"name": "Golden Axe Guildhall",
+		"id": "35004",
+		"size": 213,
+		"rent": 500000
+	},
+	{
+		"city": "Venore",
+		"name": "Valorous Venore",
+		"id": "35005",
+		"size": 303,
+		"rent": 500000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Halls of Serenity",
+		"id": "38001",
+		"size": 504,
+		"rent": 5000000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Cascade Towers",
+		"id": "38002",
+		"size": 405,
+		"rent": 5000000
+	},
+	{
+		"city": "Yalahar",
+		"name": "Sun Palace",
+		"id": "38003",
+		"size": 513,
+		"rent": 5000000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Shadow Towers",
+		"id": "40001",
+		"size": 402,
+		"rent": 250000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "The Hideout",
+		"id": "40002",
+		"size": 378,
+		"rent": 250000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Ab'Dendriel Clanhall",
+		"id": "40111",
+		"size": 310,
+		"rent": 250000
+	},
+	{
+		"city": "Ab'Dendriel",
+		"name": "Castle of the Winds",
+		"id": "40112",
+		"size": 493,
+		"rent": 500000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Shark Manor",
+		"id": "46040",
+		"size": 164,
+		"rent": 250000
+	},
+	{
+		"city": "Port Hope",
+		"name": "Bamboo Fortress",
+		"id": "46041",
+		"size": 446,
+		"rent": 500000
+	},
+	{
+		"city": "Port Hope",
+		"name": "The Treehouse",
+		"id": "47001",
+		"size": 548,
+		"rent": 250000
+	},
+	{
+		"city": "Issavi",
+		"name": "Halls of Sun and Sea",
+		"id": "48007",
+		"size": 369,
+		"rent": 1000000
+	},
+	{
+		"city": "Edron",
+		"name": "Sky Lane, Guild 1",
+		"id": "50601",
+		"size": 421,
+		"rent": 1000000
+	},
+	{
+		"city": "Edron",
+		"name": "Sky Lane, Guild 2",
+		"id": "50602",
+		"size": 400,
+		"rent": 1000000
+	},
+	{
+		"city": "Edron",
+		"name": "Sky Lane, Guild 3",
+		"id": "50603",
+		"size": 347,
+		"rent": 1000000
+	},
+	{
+		"city": "Edron",
+		"name": "Magic Academy, Guild",
+		"id": "50701",
+		"size": 195,
+		"rent": 500000
+	},
+	{
+		"city": "Edron",
+		"name": "Stonehome Clanhall",
+		"id": "52022",
+		"size": 192,
+		"rent": 250000
+	},
+	{
+		"city": "Moonfall",
+		"name": "House of the Rising Moon",
+		"id": "53002",
+		"size": 266,
+		"rent": 1000000
+	},
+	{
+		"city": "Edron",
+		"name": "Castle of the White Dragon",
+		"id": "54027",
+		"size": 518,
+		"rent": 1000000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Mammoth Belly",
+		"id": "55301",
+		"size": 362,
+		"rent": 1000000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Crystal Glance",
+		"id": "55302",
+		"size": 315,
+		"rent": 1000000
+	},
+	{
+		"city": "Svargrond",
+		"name": "Frost Manor",
+		"id": "55303",
+		"size": 434,
+		"rent": 500000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Ramen Tah",
+		"id": "58047",
+		"size": 124,
+		"rent": 250000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Harrah I",
+		"id": "59020",
+		"size": 121,
+		"rent": 250000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Uthemath II",
+		"id": "59066",
+		"size": 94,
+		"rent": 250000
+	},
+	{
+		"city": "Ankrahmun",
+		"name": "Horakhal",
+		"id": "59076",
+		"size": 203,
+		"rent": 250000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia, Western Guildhall",
+		"id": "62017",
+		"size": 203,
+		"rent": 500000
+	},
+	{
+		"city": "Darashia",
+		"name": "Darashia, Eastern Guildhall",
+		"id": "62018",
+		"size": 248,
+		"rent": 1000000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Ivy Cottage",
+		"id": "64026",
+		"size": 563,
+		"rent": 500000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "Mountain Hideout",
+		"id": "64028",
+		"size": 279,
+		"rent": 500000
+	},
+	{
+		"city": "Liberty Bay",
+		"name": "The Shelter",
+		"id": "65023",
+		"size": 353,
+		"rent": 250000
+	}
+]
