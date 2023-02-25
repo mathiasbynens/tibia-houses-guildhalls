@@ -1,28 +1,10 @@
 import * as fs from 'node:fs/promises';
 
 const getCities = async () => {
-	// TODO: Replace this with an API call once available:
 	// https://github.com/TibiaData/tibiadata-api-go/issues/198
-	return [
-		'Ab\'Dendriel',
-		'Ankrahmun',
-		'Carlin',
-		'Darashia',
-		'Edron',
-		'Farmine',
-		'Gray Beach',
-		'Issavi',
-		'Kazordoon',
-		'Liberty Bay',
-		'Moonfall',
-		'Port Hope',
-		'Rathleton',
-		'Silvertides',
-		'Svargrond',
-		'Thais',
-		'Venore',
-		'Yalahar',
-	];
+	const response = await fetch('https://assets.tibiadata.com/data.min.json');
+	const data = await response.json();
+	return data.towns;
 };
 
 const getBuildingsForCity = async (city) => {
