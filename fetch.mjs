@@ -8,7 +8,7 @@ const getCities = async () => {
 };
 
 const getBuildingsForCity = async (city) => {
-	const response = await fetch(`https://api.tibiadata.com/v3/houses/Antica/${encodeURIComponent(city)}`);
+	const response = await fetch(`https://api.tibiadata.com/v4/houses/Antica/${encodeURIComponent(city)}`);
 	const data = await response.json();
 	console.log(`Processing houses & guildhalls in ${city}…`);
 	return data;
